@@ -1,12 +1,7 @@
 # Brain Tumor Detection
 > Creation Date: December, 2021
 ## Description
-The computer-aided tumor detection systems and convolutional neural networks provided
-success stories and have made important strides in the field of machine learning. The deep
-convolutional layers extract important and robust features automatically from the input space
-as compared to traditional predecessor neural network layers. Hence, we will firstly build a
-custom model through CNN and then we will build a pretrained model on the same dataset to
-also provide a comparison between models.
+Convolutional neural networks and computer-aided tumour detection systems have made significant advancements in machine learning and offered success stories. When compared to conventional previous neural network layers, the deep convolutional layers automatically extract significant and reliable information from the input space. As a result, we first utilised CNN to create a unique model, and then we used a pretrained model on the same dataset and lastly we contrasted the outcomes of both models.
 
 > To learn more about the project, click [HERE](https://github.com/muhammadowaismushtaq/Brain-Tumor-Detection/blob/8a7d26d04ce7d4446db247b1e72b43619f80cd89/Documentation/BrainTumorDetection%20Project%20Report.pdf).
 
