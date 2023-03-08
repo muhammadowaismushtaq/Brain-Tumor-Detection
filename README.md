@@ -12,7 +12,7 @@ also provide a comparison between models.
 
 ## Contributors
 <b> The Project is Contributed by: </b>
-* [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
-* [Yougesh Dhomeja](https://github.com/)
-* [Rethek Kumar](https://github.com/)
+* [Muhammad Owais Mushtaq](https://www.linkedin.com/in/muhammadowaismushtaq)
+* [Yougesh Dhomeja](https://www.linkedin.com/in/yougesh-dhomeja-b69156213/)
+* [Rethek Kumar](https://www.linkedin.com/in/rethek-kumar-rk0/)
 
